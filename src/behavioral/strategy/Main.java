@@ -2,7 +2,6 @@ package behavioral.strategy;
 
 import behavioral.strategy.implementations.LoudQuackImpl;
 import behavioral.strategy.implementations.SimpleFlyBehaviour;
-import behavioral.strategy.implementations.SimpleQuackImpl;
 import behavioral.strategy.implementations.TextDisplayImpl;
 import behavioral.strategy.interfaces.IDisplay;
 import behavioral.strategy.interfaces.IFly;
